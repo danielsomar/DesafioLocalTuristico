@@ -1,0 +1,147 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+:root {
+  font-family: "Open Sans", sans-serif;
+  font-size: 16px;
+  color: #333333;
+  text-align: left;
+  font-style: normal;
+  line-height: normal;
+}
+
+body {
+  background-color: #F5F4F0;
+  width: 1280px;
+  box-sizing: border-box;
+  margin: 0 auto;
+}
+
+#container {
+  margin: 80px 88px 65px;
+  box-sizing: border-box;
+  width: 1120px;
+}
+
+#headline1 {
+  font-weight: bold;
+  color: #e1624f;
+  text-transform: uppercase;
+  margin-top: 0;
+  margin-bottom: 8px;
+  padding-bottom: 4px;
+  font-style: normal;
+}
+
+h1 {
+  font-weight: bold;
+  font-size: 36px;
+  color: #1b1b1b;
+  margin: 0;
+}
+
+#descricaoImg {
+  margin: 40px 0;
+  padding-top: 4px;
+  padding-bottom: 0;
+}
+#descricaoImg img {
+  margin-bottom: 24px;
+}
+#descricaoImg p {
+  margin: 0;
+  text-align: center;
+  font-style: italic;
+}
+
+#divisor {
+  display: block;
+  margin-top: 0;
+}
+
+#titleList {
+  margin: 64px 0 0;
+}
+
+#headline2 {
+  font-weight: bold;
+  color: #e1624f;
+  text-transform: uppercase;
+  margin-bottom: 2px;
+  font-style: normal;
+}
+
+#title h2 {
+  font-weight: bold;
+  font-size: 32px;
+  color: #1b1b1b;
+  margin: 0 0 8px;
+}
+
+#list {
+  margin-top: 64px 0 16px;
+}
+
+#cardTravel img {
+  margin: 48px 0 10px;
+  padding: 0;
+}
+
+h3 {
+  font-weight: bold;
+  font-size: 28px;
+  color: #1b1b1b;
+  margin: 0;
+  padding-left: 10px;
+}
+
+#bom, #hist, #cas, #fml, #orc {
+  font-weight: bold;
+}
+
+#contentCard {
+  margin: 4px 0 0 0;
+}
+
+ul {
+  margin: 0;
+  padding-left: 22px;
+}
+
+#hist {
+  color: #0C51A7;
+}
+
+
+#cas {
+  color: #591B98;
+}
+
+#fml {
+  color: #E5245E;
+}
+
+#orc {
+  color: #E95E10;
+}
+
+#divisor2 {
+  display: block;
+  margin: 40px 0;
+}
+
+#descricao {
+  text-align: center;
+}
+
+footer {
+  font-family: "Alice", serif;
+  text-align: center;
+  padding-bottom: 48px;
+  font-size: 16px;
+}
+
+footer img {
+  vertical-align: middle;
+}
